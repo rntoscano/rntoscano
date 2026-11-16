@@ -1,7 +1,9 @@
-<h1 align="center">Olá, eu sou Riane Toscano 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Riane%20Toscano&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%28a%29%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18" alt="Riane Toscano" />
 
 <p align="center">
-  Desenvolvedor(a) Full Stack em formação · Java · TypeScript · React · C#
+  <a href="https://github.com/rntoscano">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Riane+Toscano+%F0%9F%91%8B;Estudante+de+ADS+na+FECAP;Java+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+C%23;Aprendendo+Microsoft+Azure+%E2%98%81%EF%B8%8F" alt="Texto animado" />
+  </a>
 </p>
 
 ---
@@ -53,3 +55,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rianetoscano/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rianetoscano@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/rntoscano/Projeto-Portifolio)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" alt="" />
