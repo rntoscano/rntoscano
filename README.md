@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="420" src="assets/anya-escola.gif" alt="Anya (Spy x Family) descendo do ônibus na escola" />
+  <img width="280" src="https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif" alt="Anya (Spy x Family) sorrindo: Heh" />
 </p>
 
 ---
