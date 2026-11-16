@@ -1,4 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Riane%20Toscano&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%28a%29%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18" alt="Riane Toscano" />
 
 <p align="center">
   <img width="420" src="assets/anya-escola.gif" alt="Anya (Spy x Family) descendo do ônibus na escola" />
