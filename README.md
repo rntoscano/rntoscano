@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [SEU NOME] 👋</h1>
+<h1 align="center">Olá, eu sou Riane Toscano 👋</h1>
 
 <p align="center">
   Desenvolvedor(a) Full Stack em formação · Java · TypeScript · React · C#
