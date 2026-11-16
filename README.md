@@ -1,12 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Riane%20Toscano&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%28a%29%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18" alt="Riane Toscano" />
 
 <p align="center">
-  <a href="https://github.com/rntoscano">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Bem-vindo%28a%29+ao+meu+perfil!+%F0%9F%91%8B;Estudante+de+ADS+na+FECAP;Java+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+C%23;Aprendendo+Microsoft+Azure+%E2%98%81%EF%B8%8F" alt="Texto animado" />
-  </a>
-</p>
-
-<p align="center">
   <img width="420" src="assets/anya-escola.gif" alt="Anya (Spy x Family) descendo do ônibus na escola" />
 </p>
 
