@@ -11,7 +11,7 @@
 - 📚 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FECAP**
 - 🎓 Formado(a) pelo bootcamp **Generation Brasil** (Java Full Stack) e participante do **Orion Bootcamp**
 - 🎮 Nas horas vagas, desenvolvo jogos com **Godot** — confira o [Forest Bandits 3D](https://github.com/rntoscano/forest-bandits-3d)
-- 🌱 Atualmente aprendendo: [O QUE VOCÊ ESTÁ ESTUDANDO]
+- 🌱 Atualmente aprendendo: **Microsoft Azure**
 
 ### 🛠️ Tecnologias
 
