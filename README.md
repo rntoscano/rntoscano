@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="200" src="https://media.tenor.com/Pm30T-BB3K4AAAAC/anya-spy-x-family.gif" alt="Anya (Spy x Family) no ônibus da escola" />
+  <img width="420" src="assets/anya-escola.gif" alt="Anya (Spy x Family) descendo do ônibus na escola" />
 </p>
 
 ---
