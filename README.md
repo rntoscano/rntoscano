@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/rntoscano">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Riane+Toscano+%F0%9F%91%8B;Estudante+de+ADS+na+FECAP;Java+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+C%23;Aprendendo+Microsoft+Azure+%E2%98%81%EF%B8%8F" alt="Texto animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Bem-vindo%28a%29+ao+meu+perfil!+%F0%9F%91%8B;Estudante+de+ADS+na+FECAP;Java+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+C%23;Aprendendo+Microsoft+Azure+%E2%98%81%EF%B8%8F" alt="Texto animado" />
   </a>
 </p>
 
 <p align="center">
-  <img width="280" src="https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif" alt="Anya (Spy x Family) sorrindo: Heh" />
+  <img width="200" src="https://media.tenor.com/Pm30T-BB3K4AAAAC/anya-spy-x-family.gif" alt="Anya (Spy x Family) no ônibus da escola" />
 </p>
 
 ---
